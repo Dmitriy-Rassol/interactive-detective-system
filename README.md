@@ -2,7 +2,8 @@
 
 Кинематографическая платформа для детективных расследований, созданная с использованием Vue 3, TypeScript и Vite..
 
-![preview](<img width="2016" height="1272" alt="image" src="https://github.com/user-attachments/assets/8afbc3c6-548c-48f3-aca0-38bbc136bf80" />)
+<img width="2016" height="1272" alt="image" src="https://github.com/user-attachments/assets/d7987e2d-af3a-48d3-82c4-0eadf8873ebc" />
+![image](https://github.com/Dmitriy-Rassol/Woomazing/assets/52157280/bf3913fe-4041-4b3f-9864-6f668f263616)
 
 ---
 
