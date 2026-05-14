@@ -73,7 +73,7 @@ open [дело]
 camera [id]
 evidence
 clear
-
+```
 
 
 # Установка проекта
@@ -82,27 +82,38 @@ clear
 
 ```bash
 git clone https://github.com/your-username/interactive-detective-system.git
-
+```
 2. Перейти в папку проекта
+```bash
 cd interactive-detective-system
+```
 3. Установить зависимости
+```bash
 npm install
+```
 4. Запустить development server
+```bash
 npm run dev
-
+```
 После запуска проект будет доступен по адресу:
-
+```bash
 http://localhost:5173
-Production build
+```
 Сборка production версии
+```bash
 npm run build
+```
 Предпросмотр production build
+```bash
 npm run preview
+```
+
 Требования
 Node.js 18+
 npm 9+
 
 Проверить версии:
-
+```bash
 node -v
 npm -v
+```
