@@ -1,0 +1,109 @@
+# Interactive Detective System
+
+Кинематографическая платформа для детективных расследований, созданная с использованием Vue 3, TypeScript и Vite..
+
+![preview](./public/assets/preview.jpg)
+
+---
+
+# О проекте
+
+Interactive Detective System — noir-style система расследований с интерфейсом в стиле полицейского аналитического центра.
+
+Проект был создан как frontend portfolio case-study с упором на:
+
+- cinematic UI
+- интерактивность
+- dashboard architecture
+- модальные системы
+- terminal interaction
+- evidence management
+- noir atmosphere
+- responsive design
+
+---
+
+# Основные возможности
+
+## Панель управления
+- статистика отдела
+- обзор расследований
+- активные дела
+- последние события
+- уведомления
+- прогресс расследований
+
+---
+
+## Дела
+- список расследований
+- просмотр информации по делу
+- timeline событий
+- статус расследования
+- связанная информация
+- модальные окна дел
+
+---
+
+## Улики
+- добавление улик
+- удаление улик
+- кастомные select-компоненты
+- изображения улик
+- модальные окна
+- валидация формы
+
+---
+
+## Подозреваемые
+- список подозреваемых
+- биография
+- статус
+- информация по делу
+- модальные окна
+
+---
+
+## Терминал
+Рабочий fake-terminal с командами:
+
+```bash
+help
+search [имя]
+open [дело]
+camera [id]
+evidence
+clear
+
+
+
+# Установка проекта
+
+## 1. Клонировать репозиторий
+
+```bash
+git clone https://github.com/your-username/interactive-detective-system.git
+
+2. Перейти в папку проекта
+cd interactive-detective-system
+3. Установить зависимости
+npm install
+4. Запустить development server
+npm run dev
+
+После запуска проект будет доступен по адресу:
+
+http://localhost:5173
+Production build
+Сборка production версии
+npm run build
+Предпросмотр production build
+npm run preview
+Требования
+Node.js 18+
+npm 9+
+
+Проверить версии:
+
+node -v
+npm -v

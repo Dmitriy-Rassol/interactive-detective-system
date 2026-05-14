@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#0ea5e9"/><stop offset="1" stop-color="#22c55e"/></linearGradient></defs>
+<rect width="640" height="360" fill="#07111c"/><rect x="30" y="30" width="580" height="300" rx="16" fill="#0b1724" stroke="#16466b"/>
+<text x="54" y="76" fill="#b9d8ff" font-family="monospace" font-size="28">CALL_0417_0312.wav</text>
+<path d="M55 185 C95 120 120 240 160 175 S220 150 260 190 320 260 360 160 420 90 470 185 535 225 585 150" fill="none" stroke="url(#g)" stroke-width="8"/>
+<circle cx="86" cy="258" r="18" fill="#ef4444"/><text x="116" y="267" fill="#ef4444" font-family="monospace" font-size="24">REC AUDIO FRAGMENT</text>
+</svg>
