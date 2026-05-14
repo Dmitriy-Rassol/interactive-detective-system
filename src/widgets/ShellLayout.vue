@@ -46,7 +46,7 @@ function toggleSidebar() { sidebarCollapsed.value = !sidebarCollapsed.value }
       <div class="brand">
         <div class="brand__top">
           <strong>IDS</strong>
-          <button type="button" class="sidebar-toggle" :title="sidebarCollapsed ? 'Развернуть меню' : 'Свернуть меню'" @click="toggleSidebar">X</button>
+          <button type="button" class="sidebar-toggle" :title="sidebarCollapsed ? 'Развернуть меню' : 'Свернуть меню'" @click="toggleSidebar">×</button>
         </div>
         <small>v1.4.0</small>
         <p>ИНТЕРАКТИВНАЯ<br>ДЕТЕКТИВНАЯ<br>СИСТЕМА</p>
