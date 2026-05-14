@@ -1,4 +1,4 @@
-# Interactive Detective System
+# [Interactive Detective System](https://interactive-detective-system.vercel.app/)
 
 Кинематографическая платформа для детективных расследований, созданная с использованием Vue 3, TypeScript и Vite..
 
