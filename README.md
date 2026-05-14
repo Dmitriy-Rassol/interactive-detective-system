@@ -81,7 +81,7 @@ clear
 ## 1. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/your-username/interactive-detective-system.git
+git clone git@github.com:Dmitriy-Rassol/interactive-detective-system.git
 ```
 2. Перейти в папку проекта
 ```bash
